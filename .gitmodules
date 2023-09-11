@@ -1,3 +1,6 @@
 [submodule "tasks/word-benchmarks"]
   path = tasks/word-benchmarks
   url = git://https://github.com/vecto-ai/word-benchmarks
+[submodule "packages/whisper"]
+	path = packages/whisper
+	url = https://github.com/openai/whisper.git
